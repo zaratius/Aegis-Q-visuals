@@ -1,1 +1,1 @@
-![Project Screenshot](bloch_demo.png)
+![Project Screenshot](bloch_demo_smoke.png)
